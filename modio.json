@@ -1,0 +1,127 @@
+{
+    "date_added": 1666328574,
+    "date_live": 1666329103,
+    "date_updated": 1666385799,
+    "description": "",
+    "description_plaintext": "",
+    "game_id": 169,
+    "homepage_url": "",
+    "id": 2409744,
+    "logo": {
+        "filename": "thor-hammer.png",
+        "original": "https://image.modcdn.io/mods/8c35/2409744/thor-hammer.png",
+        "thumb_1280x720": "https://thumb.modcdn.io/mods/8c35/2409744/crop_1280x720/thor-hammer.png",
+        "thumb_320x180": "https://thumb.modcdn.io/mods/8c35/2409744/crop_320x180/thor-hammer.png",
+        "thumb_640x360": "https://thumb.modcdn.io/mods/8c35/2409744/crop_640x360/thor-hammer.png"
+    },
+    "maturity_option": 0,
+    "media": {
+        "images": null,
+        "sketchfab": null,
+        "youtube": null
+    },
+    "metadata_blob": "",
+    "metadata_kvp": null,
+    "modfile": {
+        "changelog": "",
+        "date_added": 1666385788,
+        "date_scanned": 1666385927,
+        "download": {
+            "binary_url": "https://api.mod.io/mods/file/3026720",
+            "date_expires": 1729545038
+        },
+        "filehash": {
+            "md5": "f99c73275b139874e7b5022622a957f2"
+        },
+        "filename": "feitoria_rp.2.zip",
+        "filesize": 778576360,
+        "id": 3026720,
+        "metadata_blob": "",
+        "mod_id": 2409744,
+        "version": "",
+        "virus_positive": 0,
+        "virus_status": 1,
+        "virustotal_hash": ""
+    },
+    "name": "Stories of Feitoria by PMC \"PRINT-Mod\"",
+    "name_id": "3642tgerik",
+    "profile_url": "https://mod.io/g/mordhau/m/3642tgerik",
+    "stats": {
+        "date_expires": 86400,
+        "downloads_total": 60,
+        "mod_id": 2409744,
+        "popularity_rank_position": 76,
+        "popularity_rank_total_mods": 1574,
+        "ratings_display_text": "Unrated",
+        "ratings_negative": 0,
+        "ratings_percentage_positive": 0,
+        "ratings_positive": 0,
+        "ratings_total": 0,
+        "ratings_weighted_aggregate": 0.0,
+        "subscribers_total": 1
+    },
+    "status": 1,
+    "submitted_by": {
+        "avatar": {
+            "filename": "a_2a42d0c36bd70c3ad1ab46b3d10d58.png",
+            "original": "https://image.modcdn.io/members/26aa/4834102/a_2a42d0c36bd70c3ad1ab46b3d10d58.png",
+            "thumb_100x100": "https://thumb.modcdn.io/members/26aa/4834102/crop_100x100/a_2a42d0c36bd70c3ad1ab46b3d10d58.png",
+            "thumb_50x50": "https://thumb.modcdn.io/members/26aa/4834102/crop_50x50/a_2a42d0c36bd70c3ad1ab46b3d10d58.png"
+        },
+        "date_online": 1666385818,
+        "id": 4834102,
+        "language": "",
+        "name_id": "println512",
+        "profile_url": "https://mod.io/u/println512",
+        "timezone": "",
+        "username": "printLine512"
+    },
+    "summary": "Stories of Feitoria by PMC \"PRINT-Mod\"",
+    "tags": [
+        {
+            "date_added": 0,
+            "name": ""
+        },
+        {
+            "date_added": 0,
+            "name": ""
+        },
+        {
+            "date_added": 0,
+            "name": ""
+        },
+        {
+            "date_added": 0,
+            "name": ""
+        },
+        {
+            "date_added": 0,
+            "name": ""
+        },
+        {
+            "date_added": 0,
+            "name": ""
+        },
+        {
+            "date_added": 0,
+            "name": ""
+        },
+        {
+            "date_added": 0,
+            "name": ""
+        },
+        {
+            "date_added": 0,
+            "name": ""
+        },
+        {
+            "date_added": 0,
+            "name": ""
+        },
+        {
+            "date_added": 0,
+            "name": ""
+        }
+    ],
+    "visible": 1
+}
